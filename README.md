@@ -1,6 +1,5 @@
 ## :sparkles:My Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shahsaif99&theme=onedark&mode=weekly)](https://git.io/streak-stats)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shahsaif99&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
 Here are some ideas to get you started:
 - :telescope: I’m currently working on Vue and Laravel
 - :seedling: I’m currently learning Algorithms 
