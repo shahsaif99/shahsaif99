@@ -1,4 +1,4 @@
-## I'm Full-Stack Developer.
+## I'm Software Engineer.
 
 I’ve always been a great problem solver, an independent introvert, and a technophile obsessed with the latest devices. 
 
